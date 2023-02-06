@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 ,DIGITAL 15 SEPARADO
+#EXTINF:-1 ,DIGITAL15 SEPARADO
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
 #EXTINF:-1 ,UNIMAS USA NUEVO HOY
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
@@ -119,13 +119,13 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Geo-blocked]
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-name="Peravía Visión" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="Undefined",Peravía Visión
+#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-name="Peravía Visión" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="R DOMINICA",Peravía Visión
 https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 #EXTINF:-1 tvg-id="PHTV.do" tvg-name="PHTV Canal 34 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KUIRM02.png" group-title="Undefined",PHTV Canal 34 (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-name="Ready TV Canal 6 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Undefined",Ready TV Canal 6 (720p) [Not 24/7]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="Undefined",Romana TV Canal 42
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="R DOMINICA",Romana TV Canal 42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-id="SensacionTV.do" tvg-name="Sensación TV" tvg-logo="https://domintapi.com/images/station/domint1563img07-28-20211627493874.jpeg" group-title="Undefined",Sensación TV
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
@@ -137,7 +137,7 @@ http://190.122.96.186:8888/http/005
 http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
 #EXTINF:-1 tvg-id="TDNMedios.do" tvg-name="TDN Medios (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="Undefined",TDN Medios (480p) [Not 24/7]
 http://108.175.14.125:1935/tdn/tdn/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas (480p)" tvg-logo="https://i.imgur.com/i9tidMu.png" group-title="Undefined",Tele Antillas (480p)
+#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas (480p)" tvg-logo="https://i.imgur.com/i9tidMu.png" group-title="R DOMINICA",Tele Antillas (480p)
 https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
 #EXTINF:-1 tvg-id="TeleOriental.do" tvg-name="Tele Oriental (720p)" tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="Undefined",Tele Oriental (720p)
 https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
