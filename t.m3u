@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U8
 #EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/07/pagina-telemicroMesa-de-trabajo-1-copia-7.png" group-title="DOMINICAN REPLUBLIC",digital 15
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
 #EXTINF:-1 ,UNIMAS USA NUEVO HOY, group-title="UNIMAS" tvg-logo="https://logodix.com/logo/1860134.png" ,unimas
