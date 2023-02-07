@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="" group-title="R DOMINICANA",digital 15
+#EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="https://telemicro.com.do/wp-content/uploads/2021/07/pagina-telemicroMesa-de-trabajo-1-copia-7.png" group-title="DOMINICAN REPLUBLIC",digital 15
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
-#EXTINF:-1 ,UNIMAS USA NUEVO HOY, group-title="UNIMAS" ,unimas
+#EXTINF:-1 ,UNIMAS USA NUEVO HOY, group-title="UNIMAS" tvg-logo="https://logodix.com/logo/1860134.png" ,unimas
 http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV [Not 24/7]" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News",Acento TV [Not 24/7]
+#EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV [Not 24/7]" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="DOMINICAN REPLUBLIC",Acento TV [Not 24/7]
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8dxadh
-#EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21 (360p)" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
+#EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21 (360p)" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="DOMINICAN REPLUBLIC",Antena 21 (360p)
 https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
 http://200.115.193.177/live/26hd-720/playlist.m3u8
@@ -18,9 +18,9 @@ http://209.91.213.10:8088/play/a014
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV (480p)" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
-#EXTINF:-1 tvg-id="RNN.do" tvg-name="RNN (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/dkslhPa.png" group-title="News",RNN (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="RNN.do" tvg-name="RNN (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/dkslhPa.png" group-title=DOMINICAN REPLUBLIC",RNN (720p) [Not 24/7]
 https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
-#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="teleSUR (1080p)" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",teleSUR (1080p)
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="teleSUR (1080p)" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="DOMINICAN REPLUBLIC",teleSUR (1080p)
 https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
 #EXTINF:-1 tvg-id="TRA2.do" tvg-name="TRA 2 (720p)" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 (720p)
 https://live.teledom.info:3242/live/teleradiohdlive.m3u8
@@ -38,7 +38,7 @@ https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
 https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bellavision.do" tvg-name="Bellavisión (1080p)" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Undefined",Bellavisión (1080p)
 https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="Undefined",Bonao TV
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="DOMINICAN REPLUBLIC",Bonao TV
 https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
 #EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
 https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
@@ -118,13 +118,13 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
 #EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Geo-blocked]
 https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
-#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-name="Peravía Visión" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="R DOMINICA",Peravía Visión
+#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-name="Peravía Visión" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="DOMINICAN REPLUBLIC",Peravía Visión
 https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
 #EXTINF:-1 tvg-id="PHTV.do" tvg-name="PHTV Canal 34 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KUIRM02.png" group-title="Undefined",PHTV Canal 34 (720p) [Not 24/7]
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
 #EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-name="Ready TV Canal 6 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Undefined",Ready TV Canal 6 (720p) [Not 24/7]
 http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
-#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="R DOMINICA",Romana TV Canal 42
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="DOMINICAN REPLUBLIC",Romana TV Canal 42
 https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
 #EXTINF:-1 tvg-id="SensacionTV.do" tvg-name="Sensación TV" tvg-logo="https://domintapi.com/images/station/domint1563img07-28-20211627493874.jpeg" group-title="Undefined",Sensación TV
 https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
