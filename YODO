@@ -1,0 +1,702 @@
+#EXTM3U
+#EXTINF:-1 ,digital 15, tvg-name="digital 15" tvg-logo="" group-title="DOMINICAN REPLUBLIC",digital 15
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
+#EXTINF:-1 ,UNIMAS USA NUEVO HOY, group-title="UNIMAS" ,unimas
+http://v-ny.theus6tv.duckdns.org/hls/68.1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AcentoTV.do" tvg-name="Acento TV [Not 24/7]" tvg-logo="https://i.imgur.com/jhiZfHf.png" group-title="News",Acento TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/video/x8dxadh
+#EXTINF:-1 tvg-id="Antena21.do" tvg-name="Antena 21 (360p)" tvg-logo="https://i.imgur.com/QE0XWLh.png" group-title="News",Antena 21 (360p)
+https://d3qhvst5vzq4y9.cloudfront.net/hls/canal21.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" tvg-name="Canal 26 (720p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/512px-Canal_26_logo_%282022%29.svg.png" group-title="News",Canal 26 (720p)
+http://200.115.193.177/live/26hd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTNSpanish.cn" tvg-name="CGTN Español (576p)" tvg-logo="https://i.imgur.com/Poz3xfi.png" group-title="News",CGTN Español (576p)
+https://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN en Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/512px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" group-title="News",CNN en Español
+http://209.91.213.10:8088/play/a014
+#EXTINF:-1 tvg-id="DWEspanol.de" tvg-name="DW Español (1080p)" tvg-logo="https://i.imgur.com/A1xzjOI.png" group-title="News",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-id="HispanTV.ir" tvg-name="HispanTV (480p)" tvg-logo="https://i.imgur.com/AfsVFfM.png" group-title="News",HispanTV (480p)
+https://live1.presstv.ir/live/hispan.m3u8
+#EXTINF:-1 tvg-id="RNN.do" tvg-name="RNN (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/dkslhPa.png" group-title="News",RNN (720p) [Not 24/7]
+https://ss2.domint.net:3202/rnn_str/canal27/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve" tvg-name="teleSUR (1080p)" tvg-logo="https://i.imgur.com/P50VjRX.png" group-title="News",teleSUR (1080p)
+https://github.com/LaneSh4d0w/IPTV_Exception/raw/master/channels/ve/telesur.m3u8
+#EXTINF:-1 tvg-id="TRA2.do" tvg-name="TRA 2 (720p)" tvg-logo="https://i.imgur.com/iwJ42rD.png" group-title="News",TRA 2 (720p)
+https://live.teledom.info:3242/live/teleradiohdlive.m3u8
+#EXTINF:-1 tvg-id="TRANoticias.do" tvg-name="TRA Noticias" tvg-logo="https://i.imgur.com/M6ZhJqM.png" group-title="News",TRA Noticias
+https://live.teledom.info:3625/live/tra45live.m3u8
+#EXTINF:-1 tvg-id="VPItv.ve" tvg-name="VPItv (1080p)" tvg-logo="https://i.imgur.com/X5hyKU8.png" group-title="News",VPItv (1080p)
+https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
+#EXTINF:-1 tvg-id="AgrotendenciaTV.cr" tvg-name="Agrotendencia TV (1080p)" tvg-logo="https://i.imgur.com/frd60hR.png" group-title="Outdoor",Agrotendencia TV (1080p)
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
+#EXTINF:-1 tvg-id="Ame47.do" tvg-name="Amé 47 (720p)" tvg-logo="https://i.imgur.com/MUEbjeP.png" group-title="Undefined",Amé 47 (720p)
+https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8
+#EXTINF:-1 tvg-id="Antena7.do" tvg-name="Antena 7 (360p)" tvg-logo="https://i.imgur.com/B9z1XRo.png" group-title="Undefined",Antena 7 (360p)
+https://d3qhvst5vzq4y9.cloudfront.net/hls/antena7.m3u8
+#EXTINF:-1 tvg-id="BajoTechoTV.do" tvg-name="Bajo Techo TV" tvg-logo="https://i.imgur.com/I2wRq88.png" group-title="Undefined",Bajo Techo TV
+https://cdn4.hostlagarto.com:8081/static/bajotechotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bellavision.do" tvg-name="Bellavisión (1080p)" tvg-logo="https://i.imgur.com/XqQ3kCs.png" group-title="Undefined",Bellavisión (1080p)
+https://cdn4.hostlagarto.com:8081/static/Bellavision8hd/playlist.m3u8
+#EXTINF:-1 tvg-id="BonaoTV.do" tvg-name="Bonao TV" tvg-logo="https://i.imgur.com/en1vCZB.png" group-title="DOMINICAN REPLUBLIC",Bonao TV
+https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8
+#EXTINF:-1 tvg-id="Boreal.do" tvg-name="Boreal" tvg-logo="https://i.imgur.com/KSquHTG.png" group-title="Undefined",Boreal
+https://cdn.borealtelevision.com:3712/live/borealtelevisionhdlive.m3u8
+#EXTINF:-1 tvg-id="Canal25.do" tvg-name="Canal 25" tvg-logo="https://i.imgur.com/lmWu73V.png" group-title="Undefined",Canal 25
+https://ss3.domint.net:3150/c25_str/canal25/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal56.do" tvg-name="Canal 56" tvg-logo="https://i.imgur.com/HcLs5eM.png" group-title="Undefined",Canal 56
+https://cdn5.streamgato.us:3371/live/canal56live.m3u8
+#EXTINF:-1 tvg-id="CanalCatorce.do" tvg-name="Canal Catorce" tvg-logo="https://i.imgur.com/iKLGBbA.png" group-title="Undefined",Canal Catorce
+https://video.misistemareseller.com/catorcetv/catorcetv/playlist.m3u8
+#EXTINF:-1 tvg-id="Carivision.do" tvg-name="Carivision (1080p)" tvg-logo="https://i.imgur.com/XjGb2UM.png" group-title="Undefined",Carivision (1080p)
+https://ss5.domint.net:3174/car_str/carivision/playlist.m3u8
+#EXTINF:-1 tvg-id="CascaraTV.do" tvg-name="Cáscara TV" tvg-logo="https://i.imgur.com/DEUR7mB.png" group-title="Undefined",Cáscara TV
+https://ss3.domint.net:3144/ctv_str/cascaratv/playlist.m3u8
+#EXTINF:-1 tvg-id="CDN.do" tvg-name="CDN (720p)" tvg-logo="https://i.imgur.com/Kg7teMC.png" group-title="Undefined",CDN (720p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/playlist.m3u8
+#EXTINF:-1 tvg-id="CDNDeportes.do" tvg-name="CDN Deportes [Not 24/7]" tvg-logo="https://i.imgur.com/UixsMqK.png" group-title="Undefined",CDN Deportes [Not 24/7]
+http://free.fullspeed.tv/iptv-query?provider=universe&streaming-ip=https://playback.dacast.com/content/access?contentId=2c659e044a58572e056cceed234a70cb-live-f56d3109-2db5-9cea-8919-d572074daf59
+#EXTINF:-1 tvg-id="CieloTV.do" tvg-name="Cielo TV (1080p)" tvg-logo="https://i.imgur.com/2PNw6BA.png" group-title="Undefined",Cielo TV (1080p)
+https://streaming.servervideo.net:1936/cielotv/cielotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CitricoTV.do" tvg-name="Cítrico TV (240p)" tvg-logo="https://enhd.ar/wp-content/uploads/2022/01/0e4a83fc-ba5b-4f26-a333-31f8bd544bcb-300x260.jpeg" group-title="Undefined",Cítrico TV (240p)
+https://cdn4.hostlagarto.com:8081/static/citricotv/playlist.m3u8
+#EXTINF:-1 tvg-id="CromTV.do" tvg-name="CromTV" tvg-logo="https://i.imgur.com/jk1lkOV.png" group-title="Undefined",CromTV
+https://cdn4.hostlagarto.com:8081/static/cromtv/playlist.m3u8
+#EXTINF:-1 tvg-id="DANTV.do" tvg-name="DAN TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/vWKtPDJ.png" group-title="Undefined",DAN TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/Punaltv/punaltvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Digital15.do" tvg-name="Digital 15 (1080p)" tvg-logo="https://i.imgur.com/v3mkmZa.png" group-title="Undefined",Digital 15 (1080p)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633798/player
+#EXTINF:-1 tvg-id="Digital809TV.do" tvg-name="Digital809 TV" tvg-logo="https://i.imgur.com/NKdV8b1.png" group-title="Undefined",Digital809 TV
+https://inliveserver.com:1936/digital809tv/digital809tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecovision.do" tvg-name="Ecovisión (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/liY1cMv.png" group-title="Undefined",Ecovisión (480p) [Not 24/7]
+https://vdo1.streamgato.us:3014/live/ecovisionlive.m3u8
+#EXTINF:-1 tvg-id="entelevision.do" tvg-name="Entelevisión" tvg-logo="https://i.imgur.com/gVtLpMD.png" group-title="Undefined",Entelevisión
+https://video.misistemareseller.com/entelevision/entelevision/playlist.m3u8
+#EXTINF:-1 tvg-id="Farovision.do" tvg-name="Farovisión" tvg-logo="https://i.imgur.com/YtdOXWb.png" group-title="Undefined",Farovisión
+https://5790d294af2dc.streamlock.net/8128/8128/playlist.m3u8
+#EXTINF:-1 tvg-id="FMTV.us" tvg-name="Frecuencia Musical TV (720p)" tvg-logo="https://i.imgur.com/vPxvbVv.png" group-title="Undefined",Frecuencia Musical TV (720p)
+https://cloud2.streaminglivehd.com:1936/8018/8018/playlist.m3u8
+#EXTINF:-1 tvg-id="FuegoTV.do" tvg-name="Fuego TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/T9vWjeB.png" group-title="Undefined",Fuego TV (720p) [Not 24/7]
+https://video.misistemareseller.com/Fuegotv/Fuegotv/playlist.m3u8
+#EXTINF:-1 tvg-id="GalaxiaTeVe.do" tvg-name="GalaxiaTeVe" tvg-logo="https://i.imgur.com/AWVWBL4.jpg" group-title="Undefined",GalaxiaTeVe
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+#EXTINF:-1 tvg-id="GaliciaTVAmerica.es" tvg-name="Galicia TV América (720p)" tvg-logo="https://i.imgur.com/VlWh3n6.png" group-title="Undefined",Galicia TV América (720p)
+http://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="GDMTV.do" tvg-name="GDMTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/sroIZuc.png" group-title="Undefined",GDMTV (720p) [Not 24/7]
+https://ss2.domint.net:3200/gdm_str/gdmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldenPanregional.mx" tvg-name="Golden TV (240p) [Not 24/7]" tvg-logo="https://i.imgur.com/NNd1lYl.png" group-title="Undefined",Golden TV (240p) [Not 24/7]
+https://rpn1.bozztv.com/36bay2/gusa-goldentv/mono.m3u8
+#EXTINF:-1 tvg-id="GuacaraTV.do" tvg-name="Guacara TV" tvg-logo="https://i.imgur.com/f0gWvU9.png" group-title="Undefined",Guacara TV
+https://cloudflare.streamgato.us:3180/live/guacaratvlive.m3u8
+#EXTINF:-1 tvg-id="GuaymateTV.do" tvg-name="Guaymate TV (360p)" tvg-logo="https://i.imgur.com/PBgQi9a.png" group-title="Undefined",Guaymate TV (360p)
+https://5790d294af2dc.streamlock.net/8100/8100/playlist.m3u8
+#EXTINF:-1 tvg-id="HermanasMirabalTV.do" tvg-name="Hermanas Mirabal TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/cbKgcGh.png" group-title="Undefined",Hermanas Mirabal TV (720p) [Not 24/7]
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="HilandoFinoTV.do" tvg-name="Hilando Fino TV" tvg-logo="https://i.imgur.com/E7ta6g8.png" group-title="Undefined",Hilando Fino TV
+https://pop-hls.iptv-global.net/loadbalancer/hilandofino.m3u8
+#EXTINF:-1 tvg-id="ImagenUniversalTV.do" tvg-name="Imagen Universal TV" tvg-logo="https://i.imgur.com/DP6HmDV.png" group-title="Undefined",Imagen Universal TV
+https://imagenuniversaltv.net:3771/live/iutvlive.m3u8
+#EXTINF:-1 tvg-id="LaCaletaTV.do" tvg-name="La Caleta TV" tvg-logo="https://i.imgur.com/EfMtOja.png" group-title="Undefined",La Caleta TV
+https://cdn4.hostlagarto.com:8081/static/lacaletatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LaVozdeMaria.do" tvg-name="La Voz de María (720p)" tvg-logo="https://i.imgur.com/Zv8CxZX.png" group-title="Undefined",La Voz de María (720p)
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LinierosTV.do" tvg-name="Linieros TV [Not 24/7]" tvg-logo="https://i.imgur.com/bLutjkf.png" group-title="Undefined",Linieros TV [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://twitch.tv/linierostv
+#EXTINF:-1 tvg-id="LunaTVCanal53.do" tvg-name="Luna TV Canal 53" tvg-logo="https://i.imgur.com/EvX5aqI.png" group-title="Undefined",Luna TV Canal 53
+https://ss2.domint.net:3228/luna_str/lunatv/playlist.m3u8
+#EXTINF:-1 tvg-id="MakaoTV.do" tvg-name="Makao TV" tvg-logo="https://i.imgur.com/asD5y7i.png" group-title="Undefined",Makao TV
+https://live.obslivestream.com/makaomux/tracks-v2a1/playlist.m3u8
+#EXTINF:-1 tvg-id="MegaVisionTV.do" tvg-name="Megavisión" tvg-logo="https://i.imgur.com/u5ECnZd.png" group-title="Undefined",Megavisión
+http://server3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1 tvg-id="Microvision10.do" tvg-name="Microvision 10 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/wMl1fNZ.png" group-title="Undefined",Microvision 10 (720p) [Not 24/7]
+http://190.103.183.24:1935/live/MicroHD/playlist.m3u8
+#EXTINF:-1 tvg-id="NaranjaTV.do" tvg-name="Naranja TV" tvg-logo="https://i.imgur.com/g7iFN3s.png" group-title="Undefined",Naranja TV
+https://cdn.streamingcpanel.com:3526/live/teleraiceslive.m3u8
+#EXTINF:-1 tvg-id="NexxoTV.do" tvg-name="Nexxo TV [Not 24/7]" tvg-logo="https://i.imgur.com/2OpCxa6.png" group-title="Undefined",Nexxo TV [Not 24/7]
+https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
+#EXTINF:-1 tvg-id="NitidaTV.do" tvg-name="Nítida TV" tvg-logo="https://i.imgur.com/z9JkxcM.png" group-title="Undefined",Nítida TV
+https://live.teledomdr.com:3131/live/nitidatvlive.m3u8
+#EXTINF:-1 tvg-id="ORBITTV.do" tvg-name="ORBIT TV (480p) [Geo-blocked]" tvg-logo="https://i.imgur.com/lizQs3n.png" group-title="Undefined",ORBIT TV (480p) [Geo-blocked]
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+#EXTINF:-1 tvg-id="PeraviaVision.do" tvg-name="Peravía Visión" tvg-logo="https://i.imgur.com/k1Wj5ka.png" group-title="R DOMINICA",Peravía Visión
+https://ss5.domint.net:3048/pvv_str/peravia/playlist.m3u8
+#EXTINF:-1 tvg-id="PHTV.do" tvg-name="PHTV Canal 34 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/KUIRM02.png" group-title="Undefined",PHTV Canal 34 (720p) [Not 24/7]
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/chunks.m3u8
+#EXTINF:-1 tvg-id="ReadyTVCanal6.do" tvg-name="Ready TV Canal 6 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ZONPQhR.png" group-title="Undefined",Ready TV Canal 6 (720p) [Not 24/7]
+http://190.103.183.24:1935/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-1 tvg-id="RomanaTVCanal42.do" tvg-name="Romana TV Canal 42" tvg-logo="https://i.imgur.com/EXnsmhx.png" group-title="R DOMINICA",Romana TV Canal 42
+https://videoserver.tmcreativos.com:19360/cvmhbyrcat/cvmhbyrcat.m3u8
+#EXTINF:-1 tvg-id="SensacionTV.do" tvg-name="Sensación TV" tvg-logo="https://domintapi.com/images/station/domint1563img07-28-20211627493874.jpeg" group-title="Undefined",Sensación TV
+https://ss5.domint.net:3002/stv_str/sensaciontv/playlist.m3u8
+#EXTINF:-1 tvg-id="SuMundoTV.do" tvg-name="Su Mundo TV" tvg-logo="https://i.imgur.com/twGGfJr.png" group-title="Undefined",Su Mundo TV
+https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba11ecb9f1255c8fe65a34/index.m3u8
+#EXTINF:-1 tvg-id="SuperCanal.do" tvg-name="Super Canal 33 (480p)" tvg-logo="https://i.imgur.com/AZBamNi.png" group-title="Undefined",Super Canal 33 (480p)
+http://190.122.96.186:8888/http/005
+#EXTINF:-1 tvg-id="SuperTV55.do" tvg-name="Super TV 55 (Santiago) (720p) [Not 24/7]" tvg-logo="https://3.bp.blogspot.com/-WO2ZKryfWoU/Wr1pO5clk_I/AAAAAAAAdJk/QYRg8_bp4OgmIWI55Y4m6i5o8RiWfCHWwCLcBGAs/s200/SuperTV55.jpg" group-title="Undefined",Super TV 55 (Santiago) (720p) [Not 24/7]
+http://ss8.domint.net:2128/stv_str/tv55/playlist.m3u8
+#EXTINF:-1 tvg-id="TDNMedios.do" tvg-name="TDN Medios (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/C8dSJM7.png" group-title="Undefined",TDN Medios (480p) [Not 24/7]
+http://108.175.14.125:1935/tdn/tdn/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleAntillas.do" tvg-name="Tele Antillas (480p)" tvg-logo="https://i.imgur.com/i9tidMu.png" group-title="R DOMINICA",Tele Antillas (480p)
+https://tunzilla.com/http://51.81.106.157:8084/hls/tantillas.m3u8
+#EXTINF:-1 tvg-id="TeleOriental.do" tvg-name="Tele Oriental (720p)" tvg-logo="https://i.imgur.com/WV6lmco.png" group-title="Undefined",Tele Oriental (720p)
+https://vdo1.streamgato.us:3592/live/teleorientaldigitallive.m3u8
+#EXTINF:-1 tvg-id="Telecanal12.do" tvg-name="Telecanal 12 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/90cTK8S.png" group-title="Undefined",Telecanal 12 (720p) [Not 24/7]
+https://cdn4.hostlagarto.com:8081/static/telecanal12/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecanal28.do" tvg-name="Telecanal 28 (360p) [Geo-blocked]" tvg-logo="https://i.imgur.com/hEJ6lZ9.png" group-title="Undefined",Telecanal 28 (360p) [Geo-blocked]
+http://cm.hostlagarto.com:8081/Telecanal-28/telecanal.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecentro.do" tvg-name="Telecentro [Not 24/7]" tvg-logo="https://i.imgur.com/Spp8rQs.png" group-title="Undefined",Telecentro [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10501048/live
+#EXTINF:-1 tvg-id="TeleCibaoHD.do" tvg-name="TeleCibao (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/IpInp05.png" group-title="Undefined",TeleCibao (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:-1 tvg-id="Telecontacto.do" tvg-name="Telecontacto" tvg-logo="https://i.ytimg.com/vi/cdsVldEE6eg/hqdefault.jpg" group-title="Undefined",Telecontacto
+https://vdo1.streamgato.us:3578/live/telecontactohdlive.m3u8
+#EXTINF:-1 tvg-id="TelefeInternacional.ar" tvg-name="Telefe Internacional (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/HNcCX3h.png" group-title="Undefined",Telefe Internacional (720p) [Not 24/7]
+https://siloh.pluto.tv/lilo/production/TelefePluto/master.m3u8
+#EXTINF:-1 tvg-id="Telefuturo.do" tvg-name="Telefuturo" tvg-logo="https://i.imgur.com/QpnctoU.png" group-title="Undefined",Telefuturo
+https://ss9.domint.net:3054/tf_str/telefuturo/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleimpacto.do" tvg-name="Teleimpacto (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/dBEysOV.png" group-title="Undefined",Teleimpacto (720p) [Not 24/7]
+http://190.122.96.188:8888/http/013
+#EXTINF:-1 tvg-id="Telemicro.do" tvg-name="Telemicro [Not 24/7]" tvg-logo="https://i.imgur.com/WhgySAk.png" group-title="Undefined",Telemicro [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://livestream.com/accounts/27456795/events/10633780/player
+#EXTINF:-1 tvg-id="Telemilenio.do" tvg-name="Telemilenio (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Y8ah4ym.png" group-title="Undefined",Telemilenio (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord8.do" tvg-name="Telenord 8 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/0OCzj0S.png" group-title="Undefined",Telenord 8 (1080p) [Not 24/7]
+http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
+#EXTINF:-1 tvg-id="Telenord10.do" tvg-name="Telenord Canal 10 (1080p) [Not 24/7]" tvg-logo="https://i.imgur.com/1Ei0kB8.png" group-title="Undefined",Telenord Canal 10 (1080p) [Not 24/7]
+http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesantodomingo.do" tvg-name="Telesantodomingo" tvg-logo="https://i.imgur.com/rI8c5UM.png" group-title="Undefined",Telesantodomingo
+https://cdn5.streamgato.us:3315/live/telesantodomingolive.m3u8
+#EXTINF:-1 tvg-id="Telesistema.do" tvg-name="Telesistema (480p)" tvg-logo="https://i.imgur.com/XVcUUy3.png" group-title="Undefined",Telesistema (480p)
+http://51.81.93.239:8084/hls/tsistemas.m3u8
+#EXTINF:-1 tvg-id="Teleunion.do" tvg-name="Teleunion (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/vTfxkjW.png" group-title="Undefined",Teleunion (480p) [Not 24/7]
+http://server3.prostudionetwork.com:1945/teleunion/TU/playlist.m3u8
+#EXTINF:-1 tvg-id="Teleuniverso.do" tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/gQev8ST.png" group-title="Undefined",Teleuniverso
+https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
+#EXTINF:-1 tvg-id="Telever.do" tvg-name="Telever (1080p)" tvg-logo="https://telever.com.do/wp-content/uploads/2021/04/cropped-logotelever.png" group-title="Undefined",Telever (1080p)
+https://megastreamm.com:3484/live/televerlive.m3u8
+#EXTINF:-1 tvg-id="Televida.do" tvg-name="Televida [Not 24/7]" tvg-logo="https://i.imgur.com/S8Zdn41.png" group-title="Undefined",Televida [Not 24/7]
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/televidaenvivo
+#EXTINF:-1 tvg-id="TNICanal51.do" tvg-name="TNI Canal51 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/jizId9Z.png" group-title="Undefined",TNI Canal51 (720p) [Not 24/7]
+https://ss5.domint.net:3188/tni_str/tni51/playlist.m3u8
+#EXTINF:-1 tvg-id="truTVLatinAmerica.us" tvg-name="truTV América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/TruTV_2014.svg/512px-TruTV_2014.svg.png" group-title="Undefined",truTV América Latina
+http://190.61.37.173:9001/play/a084/index.m3u8
+#EXTINF:-1 tvg-id="TVDaja.do" tvg-name="TV Daja" tvg-logo="https://dajatv.com/wp-content/uploads/2021/09/logo_daja_2.png" group-title="Undefined",TV Daja
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVExitos.do" tvg-name="TV Éxitos (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/ahz7X7u.png" group-title="Undefined",TV Éxitos (720p) [Not 24/7]
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+#EXTINF:-1 tvg-id="TVHigueyDigital.do" tvg-name="TV Higuey Digital" tvg-logo="https://i.imgur.com/ptQyOMi.png" group-title="Undefined",TV Higuey Digital
+https://vdo1.streamgato.us:3046/live/tvhigueycanal12live.m3u8
+#EXTINF:-1 tvg-id="TVMontanaCanal10.do" tvg-name="TV Montaña Canal 10 (1080p)" tvg-logo="https://i.imgur.com/Wtrs49C.png" group-title="Undefined",TV Montaña Canal 10 (1080p)
+https://ss5.domint.net:3064/tvm_str/montanatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPlata.do" tvg-name="TV Plata (720p)" tvg-logo="https://i.imgur.com/r3urUnn.png" group-title="Undefined",TV Plata (720p)
+https://ss9.domint.net:3032/tvp_str/tvp2111/playlist.m3u8
+#EXTINF:-1 tvg-id="TVO.do" tvg-name="TVO" tvg-logo="https://i.imgur.com/MhloaFB.png" group-title="Undefined",TVO
+https://rctvhd.net:8081/tvoromanalive/index.m3u8
+#EXTINF:-1 tvg-id="TVS.do" tvg-name="TVS (540p)" tvg-logo="https://i.imgur.com/a2YX1oj.jpg" group-title="Undefined",TVS (540p)
+http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="UCL.uy" tvg-name="UCL (720p)" tvg-logo="https://i.imgur.com/HeyN6Aw.png" group-title="Undefined",UCL (720p)
+http://162.246.18.122:8081/telepuerto-master/ucl-abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Vallevision.do" tvg-name="Vallevision (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/lNpgFAU.png" group-title="Undefined",Vallevision (720p) [Not 24/7]
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:-1 tvg-id="Yunavision.do" tvg-name="Yunavisión" tvg-logo="https://i.imgur.com/YjceEv5.png" group-title="Undefined",Yunavisión
+https://ss9.domint.net:3036/yv_str/yunavision/playlist.m3u8
+#EXTINF:-1 tvg-id="Zol106.do" tvg-name="Zol106 (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/xz4LQoD.png" group-title="Undefined",Zol106 (720p) [Not 24/7]
+https://ss3.domint.net:3108/zol_str/vzol/playlist.m3u8
+#EXTINF:-1 tvg-id="ZTV.do" tvg-name="ZTV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7F4jQ13.png" group-title="Undefined",ZTV (720p) [Not 24/7]
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+#EXTINF:-1 tvg-id="AnimeZoneTV.do" tvg-name="Anime Zone TV" tvg-logo="https://i.imgur.com/fDlkOBx.png" group-title="Animation",Anime Zone TV
+http://azxtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="EnerGeekRetro.cl" tvg-name="EnerGeek Retro (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/jJGbtHm.png" group-title="Animation",EnerGeek Retro (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+#EXTINF:-1 tvg-id="BoomerangLatinAmerica.us" tvg-name="Boomerang Latinoamérica [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png" group-title="Kids",Boomerang Latinoamérica [Geo-blocked]
+http://45.5.8.78:8000/play/a00i
+#EXTINF:-1 tvg-id="ChinolaTV.do" tvg-name="Chinola TV (480p)" tvg-logo="https://i.imgur.com/ybud4dI.png" group-title="Kids",Chinola TV (480p)
+https://cdn3.streamgato.us:3434/live/chinolatvlive.m3u8?DVR=
+#EXTINF:-1 tvg-id="Canal4RD.do" tvg-name="Canal 4 RD" tvg-logo="https://i.imgur.com/eiqpffH.png" group-title="General",Canal 4 RD
+https://protvradiostream.com:1936/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ConstanzaTV.do" tvg-name="ConstanzaTV" tvg-logo="https://i.imgur.com/4uV90gw.png" group-title="General",ConstanzaTV
+https://ss9.domint.net:3026/ctv8_str/contanzatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CotubanamaTV.do" tvg-name="Cotubanama TV" tvg-logo="https://i.imgur.com/D6gAezp.png" group-title="General",Cotubanama TV
+https://cdn4.hostlagarto.com:8081/static/cotubanamatv/playlist.m3u8
+#EXTINF:-1 tvg-id="CubavisionInternacional.cu" tvg-name="CubaVision Internacional (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/QJ9lVj2.png" group-title="General",CubaVision Internacional (480p) [Not 24/7]
+http://190.122.96.187:8888/http/010
+#EXTINF:-1 tvg-id="MiTV.do" tvg-name="MiTV" tvg-logo="https://i.imgur.com/qsyjdR8.png" group-title="General",MiTV
+https://ss2.domint.net:3204/mitv_str/mitv/playlist.m3u8
+#EXTINF:-1 tvg-id="MorroTV.do" tvg-name="MorroTV" tvg-logo="https://www.morrodigital.com/wp-content/uploads/2022/02/cropped-photo_2022-02-10_09-46-23.jpg" group-title="General",MorroTV
+https://cloudflare.streamgato.us:3044/live/morrotvlive.m3u8
+#EXTINF:-1 tvg-id="SanIsidroTV.do" tvg-name="San Isidro TV (360p) [Not 24/7]" tvg-logo="https://sanisidrotv.com/wp-content/uploads/2020/10/logo-san-isidro-tv-png-1-300x221.png" group-title="General",San Isidro TV (360p) [Not 24/7]
+https://cdn4.hostlagarto.com:8081/static/sanisidrotv/playlist.m3u8
+#EXTINF:-1 tvg-id="SiTV.do" tvg-name="SiTV (720p)" tvg-logo="https://i.imgur.com/f8bDccF.png" group-title="General",SiTV (720p)
+http://190.122.104.221/Player/sitv.m3u8
+#EXTINF:-1 tvg-id="Telealtura.do" tvg-name="Telealtura (720p)" tvg-logo="https://i.imgur.com/Ql2eaP0.png" group-title="General",Telealtura (720p)
+https://pacific.direcnode.com:3250/live/telealturalive.m3u8
+#EXTINF:-1 tvg-id="TV10SanJuan.do" tvg-name="TV 10 San Juan (720p)" tvg-logo="https://i.imgur.com/e2BXUdH.png" group-title="General",TV 10 San Juan (720p)
+https://cloud2.streaminglivehd.com:1936/8024/8024/playlist.m3u8
+#EXTINF:-1 tvg-id="TVPeruInternacional.pe" tvg-name="TV Perú Internacional (460p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/TV_Per%C3%BA_Internacional_2019_-_copia.png/512px-TV_Per%C3%BA_Internacional_2019_-_copia.png" group-title="General",TV Perú Internacional (460p) [Not 24/7]
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-id="TVGAmerica.es" tvg-name="TVG América (720p)" tvg-logo="https://i.imgur.com/CzeVIZa.png" group-title="General",TVG América (720p)
+https://america-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1 tvg-id="VegavisionCanal18.do" tvg-name="Vegavisión Canal 18 (720p)" tvg-logo="https://i.imgur.com/352jxnd.png" group-title="General",Vegavisión Canal 18 (720p)
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalIberoamericano.mx" tvg-name="Canal Iberoamericano" tvg-logo="https://i.imgur.com/UzwlCzP.png" group-title="Culture",Canal Iberoamericano
+https://icsbaldeastd.aldeasolutions.mx/EVLiveCan18ABR/mp4:7NBH6B8L/playlist.m3u8
+#EXTINF:-1 tvg-id="CaribbeanTravelingNetwork.do" tvg-name="Caribbean Traveling Network (486p)" tvg-logo="https://i.imgur.com/8J3oyfq.png" group-title="Travel",Caribbean Traveling Network (486p)
+https://59ef525c24caa.streamlock.net/ctn/ctn/playlist.m3u8
+#EXTINF:-1 tvg-id="Teletur.do" tvg-name="Teletur" tvg-logo="https://i.imgur.com/Ig4gR93.png" group-title="Travel",Teletur
+https://cdn4.hostlagarto.com:8081/static/teletur/playlist.m3u8
+#EXTINF:-1 tvg-id="CinevisionCanal19.do" tvg-name="Cinevision Canal 19 (720p)" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo" group-title="Movies",Cinevision Canal 19 (720p)
+https://live.teledom.info:3713/live/cinevisionlive.m3u8
+#EXTINF:-1 tvg-id="Filmstream.nl" tvg-name="Filmstream" tvg-logo="https://i.imgur.com/DTRPV6B.png" group-title="Movies",Filmstream
+https://spi-filmstream-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ElGarageTV.ar" tvg-name="El Garage TV (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/RZZshKK.png" group-title="Auto",El Garage TV (480p) [Not 24/7]
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ElHistonautaTV.ar" tvg-name="El Histonauta TV (360p)" tvg-logo="https://i.imgur.com/H4SFkx6.png" group-title="Documentary",El Histonauta TV (360p)
+https://stmv1.cnarlatam.com/elhistonauta/elhistonauta/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekAnimate.cl" tvg-name="EnerGeek Animate (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/yq4K3KN.png" group-title="Animation;Entertainment",EnerGeek Animate (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-tres/playlist.m3u8
+#EXTINF:-1 tvg-id="EnerGeekFanpop.cl" tvg-name="EnerGeek Fanpop (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/AdsItgE.png" group-title="Series",EnerGeek Fanpop (720p) [Not 24/7]
+https://wifispeed.trapemn.tv:1936/infantil/energeek-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Novelisima.us" tvg-name="Novelísima [Not 24/7]" tvg-logo="https://i.imgur.com/8dUS3Ih.png" group-title="Series",Novelísima [Not 24/7]
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1 tvg-id="Enlace.cr" tvg-name="Enlace (720p)" tvg-logo="https://i.imgur.com/YwUVTmS.png" group-title="Religious",Enlace (720p)
+https://11554-1.b.cdn13.com/EnlaceTV/smil:enlace-hd.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="EWTNEspanaLatinAmerica.us" tvg-name="EWTN el Canal Católico (720p) [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/EWTN_Logo_and_Wordmark_%282016%29.svg/512px-EWTN_Logo_and_Wordmark_%282016%29.svg.png" group-title="Religious",EWTN el Canal Católico (720p) [Not 24/7]
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="GHTelevision.do" tvg-name="GH Television" tvg-logo="https://i.imgur.com/xhkiiO3.png" group-title="Religious",GH Television
+https://tv.ghtelevision.com:3018/live/ghtelevisionlive.m3u8
+#EXTINF:-1 tvg-id="NuevoTiempo.br" tvg-name="Nuevo Tiempo (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/exdDHml.png" group-title="Religious",Nuevo Tiempo (720p) [Not 24/7]
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleBendicion.do" tvg-name="TeleBendicion (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/7v46dB1.png" group-title="Religious",TeleBendicion (720p) [Not 24/7]
+http://ss8.domint.net:2124/tbt_str/telebendicion/playlist.m3u8
+#EXTINF:-1 tvg-id="UrbancristTV.do" tvg-name="Urbancrist TV (720p)" tvg-logo="https://i.imgur.com/oHzFwsb.png" group-title="Religious",Urbancrist TV (720p)
+https://5790d294af2dc.streamlock.net/8160/8160/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve" tvg-name="Esports Max [Not 24/7]" tvg-logo="https://i.imgur.com/OprRgQN.png" group-title="Sports",Esports Max [Not 24/7]
+http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SportVision.do" tvg-name="Sport Visión" tvg-logo="https://i.imgur.com/4RLZ23C.png" group-title="Sports",Sport Visión
+https://5fa5de1a545ae.streamlock.net/sportvision35tv/sportvision35tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FiestaMax.ve" tvg-name="Fiesta Max (720p)" tvg-logo="https://i.imgur.com/8am0c5E.png" group-title="Music",Fiesta Max (720p)
+http://vcpar.myplaytv.com/fiestamax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Hits360TV.do" tvg-name="Hits 360 TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/Cx5V233.jpg" group-title="Music",Hits 360 TV (720p) [Not 24/7]
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="LAMIATV.do" tvg-name="LA MIA TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/XIwTM1h.png" group-title="Music",LA MIA TV (720p) [Not 24/7]
+https://ss8.domint.net:3108/mia_str/lamiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Mun2TV.do" tvg-name="Mun2TV (720p)" tvg-logo="https://i.imgur.com/e38DNzI.png" group-title="Music",Mun2TV (720p)
+https://play.amelbasoluciones.co:3309/live/mun2tvlive.m3u8
+#EXTINF:-1 tvg-id="RadioSanBorjaTV.pe" tvg-name="Radio San Borja TV (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/75dJBtH.png" group-title="Music",Radio San Borja TV (720p) [Not 24/7]
+https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TopLatinoTV.pe" tvg-name="Top Latino TV" tvg-logo="https://i.imgur.com/VRl8nPZ.png" group-title="Music",Top Latino TV
+https://5cefcbf58ba2e.streamlock.net:543/tltvweb/latintv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TuMusicaHD.do" tvg-name="Tu Música HD (1080p)" tvg-logo="https://i.imgur.com/HnjUjog.png" group-title="Music",Tu Música HD (1080p)
+https://cloudflare.streamgato.us:3125/live/megacinetvlive.m3u8
+#EXTINF:-1 tvg-id="VallenatoInternacional.us" tvg-name="Vallenato Internacional (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/rVKroNW.png" group-title="Music",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8
+#EXTINF:-1 tvg-id="HiperconectadosTV.cl" tvg-name="Hiperconectados Televisión (720p)" tvg-logo="https://i.imgur.com/CBbbrkI.png" group-title="Science",Hiperconectados Televisión (720p)
+https://mediacpstreamchile.com:1936/hiperconectados/hiperconectados/playlist.m3u8
+#EXTINF:-1 tvg-id="HumorMax.ve" tvg-name="Humor Max (720p)" tvg-logo="https://i.imgur.com/bFUZwJ0.png" group-title="Comedy",Humor Max (720p)
+http://vcpar.myplaytv.com/humormax/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SoloStandUp.cl" tvg-name="SoloStandUp (480p) [Not 24/7]" tvg-logo="https://i.imgur.com/U872KLT.png" group-title="Comedy",SoloStandUp (480p) [Not 24/7]
+https://paneltv.online:1936/8116/8116/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinoKids.uy" tvg-name="LatinoKids (360p) [Not 24/7]" tvg-logo="https://i.imgur.com/CBUf3K1.png" group-title="Entertainment",LatinoKids (360p) [Not 24/7]
+https://6362ca6f1fc28.streamlock.net/8062/8062/playlist.m3u8
+#EXTINF:-1 tvg-id="RCNMas.co" tvg-name="RCN Más (1080p)" tvg-logo="https://i.imgur.com/MJzuRAN.png" group-title="Entertainment",RCN Más (1080p)
+https://rcntv-rcnmas-1-us.plex.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MBCAmerica.us" tvg-name="MBC America (480p)" tvg-logo="https://i.imgur.com/RRc23ra.png" group-title="Culture;Entertainment;Music",MBC America (480p)
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/1c94dc9f1c08487a97995571800b9667/index.m3u8
+#EXTINF:-1 tvg-id="PlatziTV.es" tvg-name="Platzi TV (1080p)" tvg-logo="https://i.imgur.com/vEzeqHP.png" group-title="Education",Platzi TV (1080p)
+https://mdstrm.com/live-stream-playlist/629a63ae8df27c082901f78b.m3u8
+#EXTINF:-1 tvg-id="PymesTeVe.us" tvg-name="Pymes TeVe" tvg-logo="https://i.imgur.com/5ZcW7Xa.png" group-title="Business",Pymes TeVe
+https://vse2-sa-all62.secdn.net/tvstartup6-channel/live/pymestv/playlist.m3u8
+#EXTINF:-1 tvg-id="Tevex.cl" tvg-name="Tevex (720p) [Not 24/7]" tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+#EXTINF:-1 tvg-id="SenalesTV.do" tvg-name="Señales TV (480p)" tvg-logo="https://i.imgur.com/7Zr79F2.png" group-title="Lifestyle",Señales TV (480p)
+https://live.teledom.info:4000/live/senalestvlive.m3u8
+#EXTINF:-1 tvg-id="TastemadeenEspanol.us" tvg-name="Tastemade en Español (1080p)" tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Español (1080p)
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleCaribe.do" tvg-name="Tele Caribe (1080p)" tvg-logo="https://i.imgur.com/zDL8mGu.png" group-title="Entertainment;Music",Tele Caribe (1080p)
+https://cloudflare.streamgato.us:3413/live/telecaribehdlive.m3u8
+#EXTINF:-1 tvg-id="Telenovisa43.do" tvg-name="Telenovisa 43" tvg-logo="https://i.imgur.com/iHvf3bR.png" group-title="Family;General",Telenovisa 43
+http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/playlist.m3u8
+#EXTINF:-1 tvg-id="TelevisiondelEste.do" tvg-name="Televisión del Este (720p)" tvg-logo="https://i.imgur.com/mmjbcGr.png" group-title="News;Travel",Televisión del Este (720p)
+http://cm.hostlagarto.com:8081/ESTV/estv.myStream/playlist.m3u8?fluxustv.m3u8=
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="=====USA | TELEMUNDO=====" tvg-logo="https://docdog.top/logo/countries/us/countrypic.png" group-title="TELEMUNDO USA",=====USA | TELEMUNDO=====
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51149.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO TUCSON" tvg-logo="https://docdog.top/logo/countries/us/telemundotucson.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO TUCSON
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51150.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO MIAMI" tvg-logo="https://docdog.top/logo/countries/us/telemundomiami.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO MIAMI
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51151.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO LOS ANGELES" tvg-logo="https://docdog.top/logo/countries/us/telemundolosangeles.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO LOS ANGELES
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51152.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO PHOENIX" tvg-logo="https://docdog.top/logo/countries/us/telemundophoenix.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO PHOENIX
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51153.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO LAS VEGAS" tvg-logo="https://docdog.top/logo/countries/us/telemundolasvegas.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO LAS VEGAS
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51154.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO HOUSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundohouston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO HOUSTON
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51155.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO FRESNO" tvg-logo="https://docdog.top/logo/countries/us/telemundofresno.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO FRESNO
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51156.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO DALLAS" tvg-logo="https://docdog.top/logo/countries/us/telemundodallas.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO DALLAS
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51157.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO CHICAGO" tvg-logo="https://docdog.top/logo/countries/us/telemundochicago.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO CHICAGO
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51158.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP TELEMUNDO BOSTON" tvg-logo="https://docdog.top/logo/countries/us/telemundoboston.png" group-title="TELEMUNDO USA",USA: VIP TELEMUNDO BOSTON
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51159.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIMAS NETWORK" tvg-logo="https://docdog.top/logo/countries/us/unimas.png" group-title="UNIVISION UNIMAS",USA: VIP UNIMAS NETWORK
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51160.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIVISION MIAMI" tvg-logo="https://docdog.top/logo/countries/us/univisionmiami.png" group-title="UNIVISION UNIMAS",USA: VIP UNIVISION MIAMI
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51161.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="USA: VIP UNIVISION" tvg-logo="https://docdog.top/logo/countries/us/univision.png" group-title="UNIVISION UNIMAS",USA: VIP UNIVISION
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51162.m3u8
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXL [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/xxl.png" group-title="XXX-VIP [ 18+ ]",XXX: XXL [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/9841.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY MIX [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/xymix.png" group-title="XXX-VIP [ 18+ ]",XXX: XY MIX [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/9843.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SECRET CIRCLE TV" tvg-logo="https://docdog.top/logo/countries/xxx/secretcircletv.png" group-title="XXX-VIP [ 18+ ]",XXX: SECRET CIRCLE TV
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20475.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEXT & SENSO" tvg-logo="https://docdog.top/logo/countries/xxx/sext-senso.png" group-title="XXX-VIP [ 18+ ]",XXX: SEXT & SENSO
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20476.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK O TV" tvg-logo="https://docdog.top/logo/countries/xxx/pinkotv.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK O TV
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20477.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BEATE-UHSE.TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/Beate-Uhse.TV_Logo.png" group-title="XXX-VIP [ 18+ ]",XXX: BEATE-UHSE.TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20479.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DUSK! [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dusk!.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DUSK! [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20480.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DORCEL HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorceltv.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20481.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DORCEL XXX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/dorcelxxx.jpg" group-title="XXX-VIP [ 18+ ]",XXX: DORCEL XXX HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20482.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: EROX HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20484.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 2 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic2.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 2 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20485.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 3 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic3.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 3 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20486.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 4 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic4.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 4 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20487.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 5 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic5.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 5 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20488.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 6 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic6.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 6 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20489.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 7 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic7.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 7 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20490.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC 8 [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic8.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC 8 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20491.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PINK EROTIC [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/erotic.png" group-title="XXX-VIP [ 18+ ]",XXX: PINK EROTIC [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20492.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EXTASY HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/extasy4k.png" group-title="XXX-VIP [ 18+ ]",XXX: EXTASY HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20494.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EXTREME [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/extreme.png" group-title="XXX-VIP [ 18+ ]",XXX: EXTREME [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20495.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: FAST BOYZ [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/18%2B.jpg" group-title="XXX-VIP [ 18+ ]",XXX: FAST BOYZ [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20497.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: FRENCH LOVER TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/frenchlover.jpg" group-title="XXX-VIP [ 18+ ]",XXX: FRENCH LOVER TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20499.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HOT PLEASURE [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/18%2B.jpg" group-title="XXX-VIP [ 18+ ]",XXX: HOT PLEASURE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20500.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HOT XXL HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hotxxlhd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: HOT XXL HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20501.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HUSTLER HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hustlerhd.png" group-title="XXX-VIP [ 18+ ]",XXX: HUSTLER HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20502.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: LEGAL TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/legaltv.jpg" group-title="XXX-VIP [ 18+ ]",XXX: LEGAL TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20503.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: LESBIAN AFFAIR [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/18%2B.jpg" group-title="XXX-VIP [ 18+ ]",XXX: LESBIAN AFFAIR [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20504.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: MILF TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/milf.jpg" group-title="XXX-VIP [ 18+ ]",XXX: MILF TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20506.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: NAUGHTY TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/naughty.jpg" group-title="XXX-VIP [ 18+ ]",XXX: NAUGHTY TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20507.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: O LA LA TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/olala.png" group-title="XXX-VIP [ 18+ ]",XXX: O LA LA TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20509.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE PASSION" tvg-logo="https://docdog.top/logo/countries/xxx/penthousepassion.jpg" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE PASSION
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20510.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PRIVATE SPICE [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/privatered.png" group-title="XXX-VIP [ 18+ ]",XXX: PRIVATE SPICE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20511.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PRIVATE TV HD [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: PRIVATE TV HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20512.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: RED XXX [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/redxxx.jpg" group-title="XXX-VIP [ 18+ ]",XXX: RED XXX [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20514.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDLIGHT HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/redlighthd.png" group-title="XXX-VIP [ 18+ ]",XXX: REDLIGHT HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20515.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: RUSSIAN NIGHT [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/russiannight.png" group-title="XXX-VIP [ 18+ ]",XXX: RUSSIAN NIGHT [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20516.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEX ATION [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/18%2B.jpg" group-title="XXX-VIP [ 18+ ]",XXX: SEX ATION [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20517.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEX PRIVE [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/sexprive.jpg" group-title="XXX-VIP [ 18+ ]",XXX: SEX PRIVE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20518.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEXTREME TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/Sextreme.jpg" group-title="XXX-VIP [ 18+ ]",XXX: SEXTREME TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20519.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SUPER ONE HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/superonehd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: SUPER ONE HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20520.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VISIT-X TV HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/visitx.png" group-title="XXX-VIP [ 18+ ]",XXX: VISIT-X TV HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20521.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VIVID RED HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/vividred.jpg" group-title="XXX-VIP [ 18+ ]",XXX: VIVID RED HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20522.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VIXEN HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/vixen.jpg" group-title="XXX-VIP [ 18+ ]",XXX: VIXEN HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20523.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: X-DREAM TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: X-DREAM TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20524.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: X1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: X1 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20526.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY MAX HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/xymax.png" group-title="XXX-VIP [ 18+ ]",XXX: XY MAX HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20527.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XY PLUS HD [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/xyplus.png" group-title="XXX-VIP [ 18+ ]",XXX: XY PLUS HD [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20528.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BRAZZERS [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzers.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20533.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PLAYBOY LATINO [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: PLAYBOY LATINO [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20539.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEXATION [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SEXATION [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20540.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 1
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20541.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20542.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HOT [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hot.jpg" group-title="XXX-VIP [ 18+ ]",XXX: HOT [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20543.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: MIAMI TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: MIAMI TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20544.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BARELY LEGAL TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: BARELY LEGAL TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20547.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BRAZZERS TV EUROPE RUSSIA [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzerseurope.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS TV EUROPE RUSSIA [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20548.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BRAZZERS TV EUROPE [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/brazzerseurope.png" group-title="XXX-VIP [ 18+ ]",XXX: BRAZZERS TV EUROPE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20549.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EXXXOTICA TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EXXXOTICA TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20550.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: NUART TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: NUART TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20552.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: OLDTIMER [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: OLDTIMER [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20553.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PASSION XXX LESBIANGIRLS [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/passionxxx.png" group-title="XXX-VIP [ 18+ ]",XXX: PASSION XXX LESBIANGIRLS [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20554.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: CZECHMASSAGE [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: CZECHMASSAGE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20556.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLACK ON BLONDES 1" tvg-logo="https://docdog.top/logo/countries/xxx/blackonblondes.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACK ON BLONDES 1
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20558.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLACK ON BLONDES 2" tvg-logo="https://docdog.top/logo/countries/xxx/blackonblondes.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACK ON BLONDES 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20559.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLACK ON BLONDES 3" tvg-logo="https://docdog.top/logo/countries/xxx/blackonblondes.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACK ON BLONDES 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20560.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLACK ON BLONDES 4" tvg-logo="https://docdog.top/logo/countries/xxx/blackonblondes.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACK ON BLONDES 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20561.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLACK ON BLONDES 5" tvg-logo="https://docdog.top/logo/countries/xxx/blackonblondes.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACK ON BLONDES 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20562.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLACK ON BLONDES 6" tvg-logo="https://docdog.top/logo/countries/xxx/blackonblondes.png" group-title="XXX-VIP [ 18+ ]",XXX: BLACK ON BLONDES 6
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20563.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: DESIRE [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: DESIRE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20564.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 1
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20565.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 10" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 10
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20566.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 11" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 11
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20567.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 12" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 12
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20568.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20569.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 3" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20570.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20571.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20572.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 6
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20573.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 7" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 7
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20574.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 8" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 8
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20575.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON BRATTYSIS 9" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON BRATTYSIS 9
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20576.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON SISLOVESME 1." tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON SISLOVESME 1.
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20577.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON SISLOVESME 2." tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON SISLOVESME 2.
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20578.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON SISLOVESME 3." tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON SISLOVESME 3.
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20579.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB FALCON SISLOVESME 4." tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB FALCON SISLOVESME 4.
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20580.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 1 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20581.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 2 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20582.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 3 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 3 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20583.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 4 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 4 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20584.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 5 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20585.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 6 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20586.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN 7 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN 7 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20587.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN FAKE TAXI 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN FAKE TAXI 2 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20588.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EB PORN FAKE TAXI [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: EB PORN FAKE TAXI [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20589.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: MOVIE STAR PLANET" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: MOVIE STAR PLANET
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20590.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 1" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult1.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 1
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20591.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 2" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult2.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20592.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 3" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult3.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20593.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 4" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult4.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20594.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 5" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult5.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20595.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 6" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult6.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 6
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20596.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 7" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult7.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 7
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20597.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 8" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult8.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 8
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20598.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV ADULT 9" tvg-logo="https://docdog.top/logo/countries/xxx/sltvadult9.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV ADULT 9
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20599.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SLTV EROTIC" tvg-logo="https://docdog.top/logo/countries/xxx/sltverotic.png" group-title="XXX-VIP [ 18+ ]",XXX: SLTV EROTIC
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20600.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 1" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 1
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20601.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 2" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20602.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 3" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20603.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20604.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20605.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 6
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20606.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 7" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 7
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20607.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: XXX 8" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: XXX 8
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20608.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REALITY KINGS TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REALITY KINGS TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20609.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ERO XXX [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ERO XXX [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20612.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 3" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20613.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 4" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20614.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 5" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20615.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BALKAN EROTIC [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: BALKAN EROTIC [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20616.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: GAY1 (GHANDOO) [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: GAY1 (GHANDOO) [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20618.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 1 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 1 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20619.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 11 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 11 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20620.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 14 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 14 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20621.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 15 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 15 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20622.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 19 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 19 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20623.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 2 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 2 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20624.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 20 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 20 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20625.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 21 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 21 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20626.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 22 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 22 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20627.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 26 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 26 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20628.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 28 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 28 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20629.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 3 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 3 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20630.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 4 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 4 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20631.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 5 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 5 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20632.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 6 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 6 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20633.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX 8 [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX 8 [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20634.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: REDHAT SEX LATINA [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: REDHAT SEX LATINA [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20635.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Gay [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: Gay [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20636.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 2 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 2 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20637.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 3 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 3 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20638.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 4 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 4 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20639.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 5 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 5 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20640.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND 6 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND 6 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20641.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SCORELAND1 1080P [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SCORELAND1 1080P [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20642.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: SEXATION MOVIES [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: SEXATION MOVIES [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20643.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: TEEN REDHAT SEX [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: TEEN REDHAT SEX [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20644.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VENUS TV [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: VENUS TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20645.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: VIVID TV EUROPE [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: VIVID TV EUROPE [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20646.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: HUSTLER TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/hustlertv.png" group-title="XXX-VIP [ 18+ ]",XXX: HUSTLER TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20647.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: CENTO X CENTO [VIP]" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: CENTO X CENTO [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20648.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: BLUE HUSTLER [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/bluehuster.jpg" group-title="XXX-VIP [ 18+ ]",XXX: BLUE HUSTLER [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20649.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE GOLD" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE GOLD
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20651.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: PENTHOUSE QUICKIES" tvg-logo="https://docdog.top/logo/countries/xxx/penthousequickies.png" group-title="XXX-VIP [ 18+ ]",XXX: PENTHOUSE QUICKIES
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20652.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: ALBA XXX 6" tvg-logo="" group-title="XXX-VIP [ 18+ ]",XXX: ALBA XXX 6
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20653.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: JASMIN TV [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/jasmintv.png" group-title="XXX-VIP [ 18+ ]",XXX: JASMIN TV [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20654.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: EROX [VIP]" tvg-logo="https://docdog.top/logo/countries/xxx/eroxhd.jpg" group-title="XXX-VIP [ 18+ ]",XXX: EROX [VIP]
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/20655.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: 40th Anniversary Submission" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: 40th Anniversary Submission
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51163.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Aaliyah Love" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Aaliyah Love
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51164.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abella Danger" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abella Danger
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51165.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abella Danger 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abella Danger 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51166.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abella Danger 3" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abella Danger 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51167.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abella Danger 4" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abella Danger 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51168.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abella Danger 5" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abella Danger 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51169.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abella Danger 6" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abella Danger 6
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51170.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abigail Mac" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abigail Mac
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51171.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Abigail Mac 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Abigail Mac 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51172.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: All Kendra Lust" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: All Kendra Lust
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51173.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Anal Invitation" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Anal Invitation
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51174.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Anal Invitation 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Anal Invitation 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51175.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51176.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 2" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 2
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51177.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 3" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 3
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51178.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 4" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 4
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51179.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Angela White 5" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Angela White 5
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51180.m3u8
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="XXX: Anissa Kate" tvg-logo="" group-title="XXX-VIP [ PORN STAR ]",XXX: Anissa Kate
+http://flysilo.top:8080/live/311666215923853028/6051666215923853/51181.m3u8
